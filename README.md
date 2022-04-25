@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JicksonHD
 - 👀 I’m interested in project management, mobile computing, and software engineering
-- 🌱 I’m currently learning xml, PHP
+- 🌱 I’m currently learning everything relevant
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Mail: jacques.ghajar@lau.edu
      /LinkedIn: linkedin.com/in/jack-ghajar-808533230
